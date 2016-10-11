@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'proxima_nova_regular';
+    src: url('../fonts/proxima_nova_regular-webfont.eot');
+    src: url('../fonts/proxima_nova_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proxima_nova_regular-webfont.woff2') format('woff2'),
+         url('../fonts/proxima_nova_regular-webfont.woff') format('woff'),
+         url('../fonts/proxima_nova_regular-webfont.ttf') format('truetype'),
+         url('../fonts/proxima_nova_regular-webfont.svg#proxima_nova_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'proxima_nova_extrabold';
+    src: url('../fonts/proxima_nova_extrabld-webfont.eot');
+    src: url('../fonts/proxima_nova_extrabld-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proxima_nova_extrabld-webfont.woff2') format('woff2'),
+         url('../fonts/proxima_nova_extrabld-webfont.woff') format('woff'),
+         url('../fonts/proxima_nova_extrabld-webfont.ttf') format('truetype'),
+         url('../fonts/proxima_nova_extrabld-webfont.svg#proxima_nova_extrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.content {
+	width: 960px;
+    margin: 0 auto;
+	color: #444444;
+	font-family: 'proxima_nova_regular';
+	margin-top: 50px;
+	padding: 10px;
+}
+
+#merchant_application {
+	border-style: double;
+}
+
+#merappresp {
+	text-align: center;
+}
+
+#create_client {
+	padding-left: 30px;
+}
+
+#login {
+	padding-left: 30px;
+	font-size: 20px;
+}
+
+#client_info {
+	padding-bottom: 20px;
+}
+
+h1 {
+	font-size: 60px;
+	font-weight: normal;
+	text-align: center;
+}
+
+h2 {
+	font-weight: normal;
+	text-align: center;
+}
+
+strong {
+	font-family: 'proxima_nova_extrabold';
+}
+
+form {
+	margin-bottom: 20px;
+}
+
+input {
+	margin-bottom: 30px;
+}
+
+#merchant_application_submit {
+	font-size: 1.5em;
+}
+
+#create_client_submit {
+	margin-left: 25px;
+}
+
+table, dl {
+	margin: 0 auto;
+}
+
+th, td {
+	padding-left: 35px;
+	padding-top: 10px;
+}
+
+tr {
+	
+}
+
+dl {
+	text-align: center;
+}
+
+option {
+	text-align: center;
+}
+
+#client_details {
+	font-size: 1.2em;
+}
+
+#client_identity {
+	border-bottom: 3px DarkGrey solid;
+}
+
+#client_files {
+	text-align: center;
+	border-bottom: 3px DarkGrey solid;
+	margin-top: 20px;
+}
+
+#client_status {
+	text-align: center;
+	padding-top: 20px;
+	border-bottom: 3px DarkGrey solid;
+}
+
+#client_comments {
+	text-align: center;
+	padding-top: 20px;
+	border-bottom: 3px DarkGrey solid;
+}
+
+#client_send_intro {
+	text-align: center;
+	padding-top: 20px;
+}
+
+#approved {
+	text-align: center;
+}
+
+#introduction {
+	text-align: center;
+}
